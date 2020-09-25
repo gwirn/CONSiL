@@ -1,0 +1,7 @@
+standard_one_band.png
+Schwein_PCR_wdh.tif
+ABCD_ATGL_MHC.tif
+3sgel_(3)_c.jpg
+gel_crop.jpg
+1_kb_DNA_ladder_solis_bioDyne.png
+strubi_gel_1_2_g.jpg
